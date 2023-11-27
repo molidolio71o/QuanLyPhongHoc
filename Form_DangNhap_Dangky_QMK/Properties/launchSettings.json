@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Form_DangNhap_Dangky_QMK": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}
